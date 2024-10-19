@@ -20,7 +20,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaanmkhan&show_icons=true&locale=en&layout=compact" alt="ayaanmkhan" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanmkhan&show_icons=true&locale=en" alt="ayaanmkhan" /></p>
 
 
 
