@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="npm bundle size" src="https://img.shields.io/bundlephobia/:format/:packageName">
