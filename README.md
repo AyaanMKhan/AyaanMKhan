@@ -110,16 +110,19 @@
   </a>
 </p>
 
+
+
 <br><br>
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaanmkhan&show_icons=true&locale=en&layout=compact" alt="ayaanmkhan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanmkhan&show_icons=true&locale=en" alt="ayaanmkhan" />
 </p>
 
-<br><br>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanmkhan&show_icons=true&locale=en" alt="ayaanmkhan" />
+
+<br><br>
+<p align="right">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaanmkhan&show_icons=true&locale=en&layout=compact" alt="ayaanmkhan" />
 </p>
 
 
