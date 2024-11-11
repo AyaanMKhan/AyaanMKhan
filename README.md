@@ -112,7 +112,15 @@
 
 
 
+<p align="left">
+    <a href="https://instagram.com/1ayaankhan0" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1ayaankhan0" height="30" width="40" />
+    </a>
+</p>
 
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanmkhan&show_icons=true&locale=en" alt="ayaanmkhan" />
+</p>
 
 
 
