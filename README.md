@@ -112,11 +112,7 @@
 
 
 
-<br><br>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanmkhan&show_icons=true&locale=en" alt="ayaanmkhan" />
-</p>
 
 
 
