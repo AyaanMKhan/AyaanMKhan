@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ayaan-khan-b96ba0318/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/1ayaankhan0" target="blank">
+  <a href="https://instagram.com/newayaankhan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/ayaanmk2004" target="blank">
